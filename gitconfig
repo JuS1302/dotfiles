@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sim.ju@live.fr
+	name = Julie Simon
